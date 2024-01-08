@@ -1,0 +1,163 @@
+/* CSS - NickNoteBR */
+body {
+    background-color: white;
+    color: black;
+    font-family: Verdana;
+  }
+#head {
+      border: solid 1px black;
+      background-color: white;
+      width: 600px;
+      height: 100px;
+      box-shadow: 2px 2px 2px white;
+      border-top-left-radius: 10px 10px;
+      border-top-right-radius: 10px 10px;
+      padding: 2px;
+      margin: auto;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-image: url(/web/20211213030108im_/https://jamal-website.glitch.me/wiki.html);
+   }
+/*Navagation*/
+#navbar {
+      border: solid 1px grey;
+      background-color: white;  /* Standard Color */
+    /*background-color: orange;  /* Orange Color */
+      width: 720px;
+      padding: 2px;
+   }
+#card {
+  border: none;
+  text-align: left;
+  width: 400px;
+  background-color:  black;
+  color: black;
+  padding: 2px;
+  box-shadow: 3px 3px 3px black;
+  text-shadow: 2px 2px 3px black;
+}
+#container {
+     border: solid 1px white;
+     background-color: white;
+     width: 720px;
+     padding: 2px;
+     margin: auto;
+     color: black;
+}
+#content-box{
+     border: none;
+     height: 66px;
+     width: 470px;
+     color: white;
+     background-color: black; 
+}
+#content-box:hover {
+    background-color: lightgray;
+    color: black;
+}
+#acenter {
+  text-align: left;
+}
+
+/* Tango Icons */
+#h-folder {
+  background-image: url("https://web.archive.org/web/20211213030108im_/https://cdn.glitch.me/a0badb38-8c55-4a8f-b6ac-8e880076f118%2Fuser-home.png?v=1638401268914");
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+}
+#t-html {
+  background-image: url("https://web.archive.org/web/20211213030108im_/https://cdn.glitch.me/a0badb38-8c55-4a8f-b6ac-8e880076f118%2Ftext-html.png?v=1638400258143");
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+}
+#al {
+  border: solid 1px black;
+  background-color: white;
+  text-align: left;
+  height: 90px;
+}
+#inb {
+  display: inline-block;
+}
+#btn {
+    color: black;
+    border: none;
+    background-color: black;
+    font-weight: bold;
+  }
+  #btn-2 {
+    color: black;
+    border: solid 1px white;
+    background-color: white;
+    font-weight: bold;
+  }
+/*removes that stupid line in links*/
+  #line-rmv {
+    text-decoration: none;
+  }
+  #a-rmv {
+    color: black;
+    text-decoration: none;
+  }
+ /* unvisited link */
+  a:link {
+    color: royalblue;
+  }
+
+/* visited link */
+  a:visited {
+    color: blueviolet;
+  }
+
+/* mouse over link */
+  a:hover {
+    color: blueviolet;
+   }
+
+/*Flash page note*/
+#redA:link {
+    color: yellow;
+  }
+
+/* visited link */
+#redA:visited {
+    color: yellow;
+  }
+/*#1C4312*/
+/* mouse over link */
+#redA:hover {
+    color: lightgreen;
+   }
+*/
+#container {
+  border: solid 1px black;
+  background-color: white;
+  width: 600px;
+  padding: 2px;
+  margin: auto;
+}
+
+
+/*
+     FILE ARCHIVED ON 03:01:08 Dec 13, 2021 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:01:23 Dec 03, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 207.062
+  exclusion.robots: 0.088
+  exclusion.robots.policy: 0.078
+  RedisCDXSource: 32.323
+  esindex: 0.013
+  LoadShardBlock: 153.297 (3)
+  PetaboxLoader3.datanode: 161.846 (4)
+  CDXLines.iter: 18.391 (3)
+  PetaboxLoader3.resolve: 147.01 (3)
+  load_resource: 224.231
+*/
