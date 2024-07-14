@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+  <head> 
+    <title>Posts - An astronomist's diary - Review XXVII OBA</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="icon.png" type="image/x-icon"/>
+  </head> 
+  </body>
+  <center>
+    <img src="loggy.png" width="600" height="150"></img>
+    <div id="navbar">
+    <a href="index.html">Home</a> - <a href="geography.html">Geography and Languages</a> - <a href="softwares.html">Softwares</a> - <a href="about.html">About</a>
+  </div>
+</center>
+    <div id="container">
+      <p style="font-size: 20px; color: lightseagreen;">Review da XXVII OBA</p>
+      <img src="solarsys.png" width="300" height="200"></img><p>Olá, leitores! Nesse artigo irei dar minha opinião na XXVII OBA, que ocorreu em 2024. Já faz um bom tempo que ela aconteceu, mas prefiri esperar saber se ganhei uma medalha antes de fazer esse artigo, para assim provar que tenho credibilidade no assunto. <a href="https://seashell-app-jcezk.ondigitalocean.app/index.php?p=conteudo&idcat=22&pag=conteudo&acao=pesquisa&codigo=&nome=Nicolas%20Jamal%20Nogueira&cidade=&uf=SP&olimp=oba&ed=2024">Clique aqui</a> para ver a prova de que fui medalhista nessa prova.</p>
+    </div>
